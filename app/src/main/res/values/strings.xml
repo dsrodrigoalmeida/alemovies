@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Alemovies</string>
+
+    <string name="add_favorite">+Favoritos</string>
+    <string name="change_password">Redefinir Senha</string>
+    <string name="create_user">Cadastrar Usuário</string>
+    <string name="email">Email</string>
+    <string name="forgot_password">Esqueci A Senha</string>
+    <string name="login">Login</string>
+    <string name="menu_favorites">Favoritos</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_movies">Filmes</string>
+    <string name="most_popular_movies">Os Filmes Mais Populares</string>
+    <string name="password">Senha</string>
+
+</resources>

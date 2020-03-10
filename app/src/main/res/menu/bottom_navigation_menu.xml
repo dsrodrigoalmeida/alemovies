@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_filmes"
+        android:title="@string/menu_movies"
+        android:icon="@android:drawable/ic_dialog_email"
+        />
+    <item
+        android:id="@+id/menu_favoritos"
+        android:title="@string/menu_favorites"
+        android:icon="@android:drawable/ic_dialog_info"
+        />
+
+    <item
+        android:id="@+id/menu_logout"
+        android:title="@string/menu_logout"
+        android:icon="@android:drawable/ic_dialog_map" />
+</menu>

@@ -1,0 +1,2 @@
+rootProject.name='Alemovies'
+include ':app'
